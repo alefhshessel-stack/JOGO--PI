@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Arquivos temporários de compilação
+Debug/
+Release/
+*.obj
+*.pdb
+*.ilk
+*.logpackages/
+.vs/
+x64/
+Debug/
+Release/
+packages/
+allegro.log
